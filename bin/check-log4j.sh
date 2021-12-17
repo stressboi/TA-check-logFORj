@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 #
 # Originally written by Jan Schaumann
 # <jans@yahooinc.com> in December 2021.
@@ -22,6 +22,8 @@
 # CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing
 # permissions and limitations under the License.
+
+# jbrodsky@splunk.com: added timestamp and IP to output 16 DEC 2021
 
 
 set -eu
