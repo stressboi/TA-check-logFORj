@@ -8,3 +8,4 @@ Simply drop it into the /etc/apps directory on a Universal Forwarder (or use dep
 16DEC2021
 
 brodsky@splunk.com
+james.brodsky@gmail.com
